@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sg.hayden.supersightingsmvc.dao.LocationDaoMySQLTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.242 sec
